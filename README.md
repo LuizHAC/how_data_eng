@@ -40,3 +40,5 @@ O objetivo deste projeto é criar um sistema completo em nuvem para previsão do
 
 ## Arquitetura:
 
+![alt text](https://github.com/LuizHAC/how_data_eng/blob/main/arquitetura-aws.png?raw=true)
+
