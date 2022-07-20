@@ -17,9 +17,14 @@ O objetivo deste projeto é criar um sistema completo em nuvem para previsão do
 
 <!--te-->
 
-## Ferramentas utilizadas:
+## Serviços e ferramentas utilizadas:
 
 <!--ts-->
+
+* Python: Linguagem escolhida para realizar a criação de todos os scripts.
+
+* API de Cotações de Moedas: API utilizada para ingestão de dados no sistema (https://docs.awesomeapi.com.br/api-de-moedas).
+
 * Amazon S3: Armazenamento dos dados extraídos da API em formato .json.
 
 * Amazon Kinesis: Realizar a ingestão dos dados a todo momento, com um curto período de intervalo entre cada ingestão.
